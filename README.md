@@ -1,2 +1,0 @@
-# herratic
-herramienta tic empresas
